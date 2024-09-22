@@ -1,6 +1,5 @@
 <ul>
   <li>Hi!  I'm <b>yunus</b>, Front-end developer from <b>Turkey</b></li>
-  <li>I kinda like minimalism.</li>
 </ul>  
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
